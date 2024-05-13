@@ -7,3 +7,7 @@
 
 # Control de LED y Motor por Software
 ![Arduino](https://github.com/xoanxc/Arduino/blob/main/Control%20de%20LED%20y%20Motor%20por%20Software/Control%20de%20LED%20y%20Motor%20por%20Software.png)
+
+# Control de Motores con Botones
+![Arduino](https://github.com/xoanxc/Arduino/blob/main/Control%20de%20Motores%20con%20Botones/Control%20de%20Motores%20con%20Botones.png)
+
