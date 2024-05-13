@@ -24,11 +24,11 @@ void loop()
   }
   if (Izquierda == HIGH)
   {
-    digitalWrite(13, HIGH);
+    digitalWrite(12, HIGH);
   }
   if (Derecha == HIGH)
   {
-	digitalWrite(12, HIGH);
+	digitalWrite(13, HIGH);
   }
   else
   {
