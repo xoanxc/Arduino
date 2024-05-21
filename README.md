@@ -11,3 +11,6 @@
 # Control de Motores con Botones
 ![Arduino](https://github.com/xoanxc/Arduino/blob/main/Control%20de%20Motores%20con%20Botones/Control%20de%20Motores%20con%20Botones.png)
 
+# Entradas analogicas de Potenciometros y Pulsadores
+![Arduino](https://github.com/xoanxc/Arduino/blob/main/Entradas%20analogicas%20de%20Potenciometros%20y%20Pulsadores/Entradas%20analogicas%20de%20Potenciometros%20y%20Pulsadores.png)
+
